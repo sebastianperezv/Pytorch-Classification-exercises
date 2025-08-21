@@ -10,7 +10,3 @@ The notebook shows how neural networks with **ReLU activation ⚡** can be appli
 ## 🎯 Goal
 
 The main goal of this project is to provide a simple and clear example of how to handle non-linear classification problems by leveraging the `make_circles` dataset and applying a neural network model with the **ReLU activation function**.
-
-## 📜 License
-
-This project is distributed under the MIT License.
