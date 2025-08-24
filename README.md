@@ -1,12 +1,24 @@
-# 🔵 Classification with Make Circles and ReLU 🔴
+# 🔵 PyTorch Classification Exercises 🔴
 
-This project demonstrates how to approach a **non-linear classification problem** using the `make_circles` dataset from **scikit-learn**.  
-The notebook shows how neural networks with **ReLU activation ⚡** can be applied to separate data that is not linearly separable.
+This repository contains a set of **practical exercises in PyTorch** focused on **binary classification and non-linear multi-class classification problems**.  
+The main goal is to understand and apply fundamental concepts of neural networks, activation functions, and model training for classification tasks.
 
-## 📂 Project Structure
+## 📌 Content
 
-- 📒 `Make_circles.ipynb`: Jupyter Notebook containing the dataset generation, visualization, and the implementation of classification using ReLU.
+The notebook `Pytorch_Classification_exercises.ipynb` includes:
 
-## 🎯 Goal
+- **Binary Classification**  
+  - Building a perceptron for two-class classification.  
+  - Using activation functions such as **Sigmoid**.  
+  - Training and evaluating the model.  
 
-The main goal of this project is to provide a simple and clear example of how to handle non-linear classification problems by leveraging the `make_circles` dataset and applying a neural network model with the **ReLU activation function**.
+- **Non-linear Multi-class Classification**  
+  - Modeling problems with more than two classes.  
+  - Implementing **ReLU** and **Softmax** in the neural network.  
+  - Computing performance metrics.  
+
+- **Applied concepts:**  
+  - Tensors in PyTorch.  
+  - Forward pass and backpropagation.  
+  - Optimization using Stochastic Gradient Descent (SGD).  
+  - Results visualization.  
